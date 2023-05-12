@@ -4,7 +4,7 @@ title = 'Journées de Recherche et de Rencontres sur Tolkien'
 theme = 'ananke'
 
 [cascade]
-  featured_image = 'images/gohugo-default-sample-hero-image.jpg'
+  featured_image = 'images/banniere.jpg'
 
 resourceDir = "../resources"
 
