@@ -19,6 +19,21 @@ enableRobotsTXT = true
     title = "JRRT"
     weight = 1
     contentDir = "content/fr"
+    [[languages.fr.menu.main]]
+      url = "/fr/"
+      name = "Accueil"
+    [[languages.fr.menu.main]]
+      url = "/fr/programme/"
+      name = "Programme"
+    [[languages.fr.menu.main]]
+      url = "/fr/apropos"
+      name = "À Propos"
+    [[languages.fr.menu.main]]
+      url = "/fr/inscription"
+      name = "Inscription"
+    [[languages.fr.menu.main]]
+      url = "/fr/contact"
+      name = "Contact"
   [languages.en]
     title = "JRRT2023 by Tolkiendil"
     weight = 2
