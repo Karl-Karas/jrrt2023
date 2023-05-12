@@ -1,5 +1,5 @@
 ---
-title: "Lorem Ipsum Test"
+title: "Appel à Communications"
 description: "orem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna."
 featured_image: "/images/logo.jpg"
 date: 2023-05-12T16:31:07+02:00
