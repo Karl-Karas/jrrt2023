@@ -16,11 +16,11 @@ enableRobotsTXT = true
 
 [languages]
   [languages.fr]
-    title = "Journées de Recherche et de Rencontres sur Tolkien"
+    title = "JRRT2023 par l'association Tolkiendil"
     weight = 1
     contentDir = "content/fr"
   [languages.en]
-    title = "Ananke"
+    title = "JRRT2023 by Tolkiendil"
     weight = 2
     contentDir = "content/en"
     # languageDirection = 'rtl' for Right-To-Left languages
