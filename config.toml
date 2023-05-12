@@ -4,7 +4,7 @@ title = 'Journées de Recherche et de Rencontres sur Tolkien'
 theme = 'ananke'
 
 [cascade]
-  featured_image = 'images/djomazhobbithole.jpg'
+  featured_image = 'images/hobbitholezoom.png'
 
 resourceDir = "../resources"
 
