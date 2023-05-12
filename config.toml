@@ -16,7 +16,7 @@ enableRobotsTXT = true
 
 [languages]
   [languages.fr]
-    title = ""
+    title = "JRRT"
     weight = 1
     contentDir = "content/fr"
   [languages.en]
