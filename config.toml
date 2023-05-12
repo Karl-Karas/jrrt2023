@@ -4,7 +4,7 @@ title = 'Journées de Recherche et de Rencontres sur Tolkien'
 theme = 'ananke'
 
 [cascade]
-  featured_image = 'images/banniere.jpg'
+  featured_image = 'images/djomazhobbithole.jpg'
 
 resourceDir = "../resources"
 
@@ -16,7 +16,7 @@ enableRobotsTXT = true
 
 [languages]
   [languages.fr]
-    title = "JRRT2023 par l'association Tolkiendil"
+    title = ""
     weight = 1
     contentDir = "content/fr"
   [languages.en]
