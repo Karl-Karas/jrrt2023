@@ -1,4 +1,72 @@
 baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageCode = 'fr-fr'
+title = 'Journées de Recherche et de Rencontres sur Tolkien'
 theme = 'ananke'
+
+[cascade]
+  featured_image = 'images/gohugo-default-sample-hero-image.jpg'
+
+resourceDir = "../resources"
+
+DefaultContentLanguage = "fr"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[languages]
+  [languages.fr]
+    title = "Journées de Recherche et de Rencontres sur Tolkien"
+    weight = 1
+    contentDir = "content/fr"
+  [languages.en]
+    title = "Ananke"
+    weight = 2
+    contentDir = "content/en"
+    # languageDirection = 'rtl' for Right-To-Left languages
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  text_color = ""
+  author = ""
+  favicon = ""
+  site_logo = ""
+  description = "Site temporaire pour la commémoration des 50 ans de la première traduction du Seigneur des Anneaux en français, organisé par l'association Tolkiendil"
+  # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  recent_posts_number = 3
+
+[[params.ananke_socials]]
+name = "twitter"
+label = "Twitter"
+url = "https://www.twitter.com/TolkiendilFR"
+
+[[params.ananke_socials]]
+name = "facebook"
+label = "Facebook"
+url = "https://www.facebook.com/Tolkiendil"
+
+[[params.ananke_socials]]
+name = "mastodon"
+label = "Mastodon"
+url = "https://piaille.fr/@tolkiendil"
+
+[[params.ananke_socials]]
+name = "youtube"
+label = "YouTube"
+url = "http://www.youtube.com/user/AssoTolkiendil"
+
+[[params.ananke_socials]]
+name = "instagram"
+label = "Instagram"
+url = "https://www.instagram.com/Tolkiendil"
+
+[[params.ananke_socials]]
+name = "discord"
+label = "Discord"
+url = "https://discord.gg/cafByTS"
+
