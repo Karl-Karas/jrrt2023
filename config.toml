@@ -22,18 +22,23 @@ enableRobotsTXT = true
     [[languages.fr.menu.main]]
       url = "/fr/"
       name = "Accueil"
+      weight = 10
     [[languages.fr.menu.main]]
       url = "/fr/programme/"
       name = "Programme"
+      weight = 20
     [[languages.fr.menu.main]]
       url = "/fr/apropos"
       name = "À Propos"
+      weight = 30
     [[languages.fr.menu.main]]
       url = "/fr/inscription"
       name = "Inscription"
+      weight = 40
     [[languages.fr.menu.main]]
       url = "/fr/contact"
       name = "Contact"
+      weight = 50
   [languages.en]
     title = "JRRT2023 by Tolkiendil"
     weight = 2
