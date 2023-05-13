@@ -1,7 +1,7 @@
 baseURL = 'http://example.org/'
 languageCode = 'fr-fr'
 title = 'Journées de Recherche et de Rencontres sur Tolkien'
-theme = 'ananke'
+theme = ['ananke', 'osm']
 
 [cascade]
   featured_image = 'images/hobbitholezoom.png'
