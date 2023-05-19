@@ -36,13 +36,9 @@ enableRobotsTXT = true
       name = "Pratique"
       weight = 40
     [[languages.fr.menu.main]]
-      url = "/fr/contact"
-      name = "Contact"
-      weight = 50
-    [[languages.fr.menu.main]]
       url = "/fr/apropos"
       name = "À Propos"
-      weight = 60
+      weight = 50
   [languages.en]
     title = "JRRT2023 by Tolkiendil"
     weight = 2
