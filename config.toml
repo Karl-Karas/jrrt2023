@@ -48,19 +48,19 @@ enableRobotsTXT = true
       name = "Home"
       weight = 10
        [[languages.en.menu.main]]
-      url = "/en/"
+      url = "/en/programme.md"
       name = "Programme"
       weight = 20
        [[languages.en.menu.main]]
-      url = "/en/"
+      url = "/en/register.md"
       name = "Register"
       weight = 30
        [[languages.en.menu.main]]
-      url = "/en/"
+      url = "/en/practicalinfo.md"
       name = "Practical Info"
       weight = 40
        [[languages.en.menu.main]]
-      url = "/en/"
+      url = "/en/aboutus"
       name = "About Us"
       weight = 50
     # languageDirection = 'rtl' for Right-To-Left languages
