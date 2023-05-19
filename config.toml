@@ -31,14 +31,18 @@ enableRobotsTXT = true
       url = "/fr/inscription"
       name = "Inscription"
       weight = 30
+       [[languages.fr.menu.main]]
+      url = "/fr/pratique"
+      name = "Pratique"
+      weight = 40
     [[languages.fr.menu.main]]
       url = "/fr/contact"
       name = "Contact"
-      weight = 40
+      weight = 50
        [[languages.fr.menu.main]]
       url = "/fr/apropos"
       name = "À Propos"
-      weight = 50
+      weight = 60
   [languages.en]
     title = "JRRT2023 by Tolkiendil"
     weight = 2
