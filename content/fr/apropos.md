@@ -7,4 +7,6 @@ Les "Journées de Recherche et de Rencontres sur Tolkien" sont organisées par l
 
 L'illustration de couverture du site et de l'affiche de l'événement est une oeuvre de DjoMaz, merci à elle pour l'autorisation de nous en servir !
 
+{{< form-contact width="60%" action="https://formspree.io/f/xlekvjyz" >}}
+
 {{< openstreetmap mapName="notre-dame-de-paris_914054" >}}
