@@ -24,7 +24,7 @@ enableRobotsTXT = true
       name = "Accueil"
       weight = 10
     [[languages.fr.menu.main]]
-      url = "/fr/programme/"
+      url = "/fr/programme"
       name = "Programme"
       weight = 20
     [[languages.fr.menu.main]]
@@ -32,7 +32,7 @@ enableRobotsTXT = true
       name = "Inscription"
       weight = 30
     [[languages.fr.menu.main]]
-      url = "/fr/pratique/"
+      url = "/fr/pratique"
       name = "Pratique"
       weight = 40
     [[languages.fr.menu.main]]
