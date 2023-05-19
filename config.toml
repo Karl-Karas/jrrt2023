@@ -60,7 +60,7 @@ enableRobotsTXT = true
       name = "Practical Info"
       weight = 40
     [[languages.en.menu.main]]
-      url = "/en/aboutus"
+      url = "/en/apropos"
       name = "About Us"
       weight = 50
     # languageDirection = 'rtl' for Right-To-Left languages
