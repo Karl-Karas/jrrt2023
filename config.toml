@@ -3,17 +3,15 @@ languageCode = 'fr-fr'
 title = 'Journées de Recherche et de Rencontres sur Tolkien'
 theme = ['ananke', 'osm']
 
-[cascade]
-  featured_image = 'images/hobbitholezoom.png'
-
 resourceDir = "../resources"
 
-DefaultContentLanguage = "fr"
 SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 
+defaultContentLanguage = 'fr'
+defaultContentLanguageInSubdir = true
 [languages]
   [languages.fr]
     title = "JRRT"
@@ -46,24 +44,27 @@ enableRobotsTXT = true
     [[languages.en.menu.main]]
       url = "/en/"
       name = "Home"
-      weight = 10
+      weight = 110
     [[languages.en.menu.main]]
       url = "/en/programme"
       name = "Programme"
-      weight = 20
+      weight = 120
     [[languages.en.menu.main]]
       url = "/en/register"
       name = "Register"
-      weight = 30
+      weight = 130
     [[languages.en.menu.main]]
       url = "/en/practicalinfo"
       name = "Practical Info"
-      weight = 40
+      weight = 140
     [[languages.en.menu.main]]
       url = "/en/apropos"
       name = "About Us"
-      weight = 50
+      weight = 150
     # languageDirection = 'rtl' for Right-To-Left languages
+
+[cascade]
+  featured_image = 'images/hobbitholezoom.png'
 
 [sitemap]
   changefreq = "monthly"
