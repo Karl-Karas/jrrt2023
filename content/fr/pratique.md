@@ -1,6 +1,6 @@
 ---
 title: "Informations pratiques"
-date: 2023-05-19T18:17:43+02:00
+date: 2023-05-19T08:07:43+02:00
 ---
 
 
