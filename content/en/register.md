@@ -7,6 +7,6 @@ In order to organize "JRRT" as well as possible, we kindly ask you to register f
 
 Registration for the symposium and activities is free. The theme party on Saturday evening has an entrance fee.
 
-Please fill in as many details as possible in the form below. If you have an unforeseen event or a change of program, [please let us know]({{< ref "/aboutus" >}} "About Us") as soon as possible ! Thank you in advance!
+Please fill in as many details as possible in the form below. If you have an unforeseen event or a change of program, [please let us know]({{< ref "/en/apropos" >}} "About Us") as soon as possible ! Thank you in advance!
 
 {{< iframe url="https://framaforms.org/inscription-aux-journees-de-recherche-et-de-rencontres-sur-tolkien-6-7-octobre-2023-1683994857" width="100%" height="900px" border="none" >}}
