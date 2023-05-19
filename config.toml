@@ -50,11 +50,11 @@ defaultContentLanguageInSubdir = true
       name = "Programme"
       weight = 120
     [[languages.en.menu.main]]
-      url = "/en/register"
+      url = "/en/inscription"
       name = "Register"
       weight = 130
     [[languages.en.menu.main]]
-      url = "/en/practicalinfo"
+      url = "/en/pratique"
       name = "Practical Info"
       weight = 140
     [[languages.en.menu.main]]
