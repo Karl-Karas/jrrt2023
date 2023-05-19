@@ -1,6 +1,6 @@
 ---
 title: "About Us"
-date: 2023-05-12T18:17:43+02:00
+date: 2023-05-19T18:17:43+02:00
 ---
 
 The "Journées de Recherche et de Rencontres sur Tolkien" are organized by Association Tolkiendil.  [To visit the main website of the association, click here](https://www.tolkiendil.com) !
