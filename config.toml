@@ -64,7 +64,7 @@ defaultContentLanguageInSubdir = true
     # languageDirection = 'rtl' for Right-To-Left languages
 
 [cascade]
-  featured_image = 'images/hobbitholezoom.png'
+  featured_image = 'images/hobbitholezoom2.png'
 
 [sitemap]
   changefreq = "monthly"
