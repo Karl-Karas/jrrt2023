@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://jrrt2023.tolkiendil.com/'
 languageCode = 'fr-fr'
 title = 'Journées de Recherche et de Rencontres sur Tolkien'
 theme = ['ananke', 'osm']
