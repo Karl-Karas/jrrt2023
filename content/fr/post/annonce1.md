@@ -9,6 +9,6 @@ La première phase de préparation de l'événement étant terminée, nous somme
 
 N'hésitez pas à la partager sur vos réseaux sociaux, à l'afficher dans votre vitrine, etc.
 
-{{< figure src="/static/images/Affiche.jpg" title="L'affiche de l'événement !" >}}
+{{< figure src="/images/Affiche.jpg" title="L'affiche de l'événement !" >}}
 
 
