@@ -11,7 +11,7 @@ Cet événement est organisé en partenariat avec les lieux suivants, que nous r
 3. [Les Caves Alliées](https://www.facebook.com/lescavesalliees/?locale=fr_FR)
 4. [Le Labo de l'Edition](https://labodeledition.parisandco.paris/)
 
-L'illustration de couverture du site et de l'affiche de l'événement est une oeuvre de DjoMaz, merci à elle pour l'autorisation de nous en servir ! Retrouvez l'artiste sur [Instagram] (https://www.instagram.com/djo.maz/?hl=en) et [Artstation](https://www.artstation.com/djomaz) !
+L'illustration de couverture du site et de l'affiche de l'événement est une oeuvre de DjoMaz, merci à elle pour l'autorisation de nous en servir ! Retrouvez l'artiste sur [Instagram](https://www.instagram.com/djo.maz/?hl=en) et [Artstation](https://www.artstation.com/djomaz) !
 
 Pour toute question sur l'événement, n'hésitez pas à nous contacter à l'aide du formulaire ci-dessous :
 
