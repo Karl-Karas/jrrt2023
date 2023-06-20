@@ -9,6 +9,6 @@ La première phase de préparation de l'événement étant terminée, nous somme
 
 N'hésitez pas à la partager sur vos réseaux sociaux, à l'afficher dans votre vitrine, etc.
 
-![Affiche](images/Affiche.jpg)
+![Affiche](static/images/Affiche.jpg)
 
 
