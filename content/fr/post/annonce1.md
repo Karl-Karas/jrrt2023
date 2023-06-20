@@ -1,6 +1,6 @@
 ---
 title: "L'affiche de l'événement est sortie !"
-description: "Publication de l'affiche et site de l'évenement"
+description: "Publication de l'affiche et site de l'événement"
 featured_image: "/images/hobbitholezoom2.png"
 date: 2023-06-20T16:30:07+02:00
 ---
