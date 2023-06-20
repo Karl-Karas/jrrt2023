@@ -1,7 +1,7 @@
 ---
 title: "Appel à Communications"
 description: "Appel à communications pour le colloque, deadline le 31 mai."
-featured_image: "/images/logo.jpg"
+featured_image: "/images/hobbitholezoom2.png.jpg"
 date: 2023-05-12T16:31:07+02:00
 ---
 
