@@ -8,6 +8,8 @@ Pour des questions d'organisation, l'**inscription est obligatoire pour assister
 
 **L'événement est gratuit**, sauf pour la soirée dont l'entrée est payante (le tarif inclut un forfait pour repas et boisson - tous les détails seront envoyés aux personnes inscrites). 
 
+Vous retrouverez sur la carte ci-dessous les différents lieux où auront lieu l'événement :
+
 
 {{< openstreetmap mapName="jrrt-2023_930951" >}}
 
