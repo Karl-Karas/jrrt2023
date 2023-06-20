@@ -2,12 +2,18 @@
 title: "Inscription"
 date: 2023-05-12T18:17:43+02:00
 ---
+### Pourquoi s'inscrire ? 
+En raison d'un nombre limité de places, et pour nous faciliter l'organisation de l'événement, l'inscription est **obligatoire** pour :
+- Le colloque (entre 85 et 100 places)
+- La soirée à thème (environ 75 places)
+- Les ateliers et / ou jeux (entre 4 et 10 places en fonction)
+   
+L'**accès à l'évenement le dimanche 8 octobre** (stand et autres animations, détails à venir) **est libre**.
 
-Afin d'organiser au mieux ces Journées, nous vous demandons de bien vouloir vous inscrire à l'événement.
+### Tarif
+L'inscription au colloque et aux activités est gratuite. La soirée à thème du samedi soir est payante : le tarif consiste en un forfait qui couvrira le diner sous forme de buffet et des boissons (détails à venir). 
 
-L'inscription au colloque et aux activités est gratuite. La soirée à thème du samedi soir est payante.
+<h2 style="text-align: center;">Les inscriptions ouvriront début juillet !</h2>
 
-Merci de renseigner un maximum d'éléments dans le formulaire ci-dessous. Si vous avez un imprévu ou un changement de programme, [merci de nous le signaler par mail]({{< ref "/apropos" >}} "A propos") dès que possible ! Merci d'avance !
 
-{{< iframe url="https://framaforms.org/inscription-aux-journees-de-recherche-et-de-rencontres-sur-tolkien-6-7-octobre-2023-1683994857" width="100%" height="900px" border="none" >}}
 
