@@ -11,5 +11,4 @@ N'hésitez pas à la partager sur vos réseaux sociaux, à l'afficher dans votre
 
 ![Affiche](/static/images/Affiche.jpg)
 
-<img src="static/images/Affiche.jpg"/>
 
