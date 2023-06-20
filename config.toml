@@ -110,3 +110,8 @@ url = "https://www.instagram.com/Tolkiendil"
 name = "discord"
 label = "Discord"
 url = "https://discord.gg/cafByTS"
+
+[[params.ananke_socials]]
+name = "twitch"
+label = "Twitch"
+url = "https://www.twitch.tv/AssoTolkiendil"
