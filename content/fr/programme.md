@@ -4,7 +4,7 @@ date: 2023-05-12T18:17:43+02:00
 ---
 
 # Vendredi 6 octobre
-### Première journée du colloque "JRRT" à l'Université Paris-Créteil
+## Première journée du colloque "JRRT" à l'Université Paris-Créteil
 **A l'amphithéatre de la Maison de l'Innovation et de l'Entrepreneuriat Etudiant, Rue Poète et Sellier, 94000 Créteil**
 
 *Programme à venir d'ici mi-juillet*
