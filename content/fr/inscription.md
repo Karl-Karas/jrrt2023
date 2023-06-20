@@ -13,6 +13,6 @@ L'**accès à l'évenement le dimanche 8 octobre** (stand et autres animations, 
 ### Tarif
 L'inscription au colloque et aux activités est gratuite. La soirée à thème du samedi soir est payante : le tarif consiste en un forfait qui couvrira le diner sous forme de buffet et des boissons (détails à venir). 
 
-##Les inscriptions ouvriront début juillet !
+## Les inscriptions ouvriront début juillet !
 
 
