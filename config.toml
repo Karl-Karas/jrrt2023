@@ -76,7 +76,7 @@ defaultContentLanguageInSubdir = true
   author = ""
   favicon = ""
   site_logo = "images/logo_cercle_web.png"
-  description = "Site temporaire pour la commémoration des 50 ans de la première traduction du Seigneur des Anneaux en français, organisé par l'association Tolkiendil"
+  description = "Site pour la commémoration des 50 ans de la première traduction du Seigneur des Anneaux en français, organisé par l'association Tolkiendil"
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
   recent_posts_number = 3
