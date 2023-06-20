@@ -10,13 +10,14 @@ date: 2023-05-12T18:17:43+02:00
 *Programme à venir d'ici mi-juillet*
 
 # Samedi 7 octobre
-### Deuxième journée du colloque "JRRT" à la Bibliothèque Buffon
+## Deuxième journée du colloque "JRRT" à la Bibliothèque Buffon
 **Amphithéatre de la Bibliothèque Buffon, 15 bis Rue Buffon, 75005 Paris**
 
 *Programme à venir d'ici mi-juillet*
 
-### Soirée à thème
+## Soirée à thème
 **Aux Caves Alliées, 44 Rue Grégoire de Tours, 75006 Paris**
+
 A partir de 19h. Entrée payante.
 
 *Programme détaillé à venir*
@@ -26,7 +27,7 @@ A partir de 19h. Entrée payante.
 
 *Programme détaillé à venir*
 
-### Atelier de calligraphie elfique
-### Jeux de société
-### Stand de l'association Tolkiendil
+## Atelier de calligraphie elfique
+## Jeux de société
+## Stand de l'association Tolkiendil
 
