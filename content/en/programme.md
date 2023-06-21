@@ -1,12 +1,32 @@
 ---
 title: "Programme"
-date: 2023-05-12T18:17:43+02:00
+date: 2023-06-21T08:27:43+02:00
 ---
 
-**Friday 6 October** : First day of the symposium "JRRT" at UPEC. 
+# Friday, October 6th
+## First day of the "JRRT" Symposium at Université Paris-Créteil
+**At the amphitheatre of Maison de l'Innovation et de l'Entrepreneuriat Etudiant, Rue Poète et Sellier, 94000 Créteil**
 
-**Saturday 7 October** : Secnd day of the symposium "JRRT" at Bibliothèque Buffon.
+*Programme to be revealed by mid-July*
 
-**Saturday 7 October** : Theme party at Caves Saint-Sabin.
+# Saturday, October 7th 
+## Second day of the "JRRT" Symposium at Bibliothèque Buffon
+**Amphitheatre of Bibliothèque Buffon, 15 bis Rue Buffon, 75005 Paris**
 
-**Sunday 8 October** : Activities by Tolkiendil (?)
+*Programme to be revealed by mid-July*
+
+## Theme evening
+**At Caves Alliées, 44 Rue Grégoire de Tours, 75006 Paris**
+
+Starts at 7pm. Entrance fee.
+
+*Detailed programme to be announced soon*
+
+# Sunday, October 8th
+**At Labo de l'Edition, 2 Rue Saint-Médard, 75005 Paris**
+
+*Detailed programme to be announced soon*
+
+## Elish calligraphy workshop
+## Board games
+## Stand of Tolkiendil association
