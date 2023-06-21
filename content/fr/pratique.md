@@ -1,6 +1,7 @@
 ---
 title: "Informations pratiques"
 date: 2023-05-19T08:07:43+02:00
+omit_header_text: true
 ---
 Les JRRT se dérouleront à **Paris et Créteil** du **6 au 8 octobre 2023**. Retrouvez le détail de chaque journée sur la page [Programme](/fr/programme).
 
