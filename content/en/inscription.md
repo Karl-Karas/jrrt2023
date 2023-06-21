@@ -1,16 +1,21 @@
 ---
 title: "Register"
-date: 2023-05-12T18:17:43+02:00
+date: 2023-06-21T10:15:43+02:00
+omit_header_text: true
+featured_image: ''
 ---
+### Why register ? 
+Because places are limited, and to help us organize the event, registering is **compulsory** for: 
+- The symposium (between 85 and 100 places)
+- The theme evening (around 75 places)
+- The workshop and / or games (between 4 and 10 places depending)
+   
+**Access to the event on Sunday, October 8th** (stand and other animations, details to come) **is free**.
 
-In order to organize "JRRT" as well as possible, we kindly ask you to register
-for the event.
+### Fee
+Registering to the symposium and activities is **free**. 
 
-Registration for the symposium and activities is free. The theme party on
-Saturday evening has an entrance fee.
+The **theme evening of Saturday night  has an entrance fee** : the fee consists in a flat rate which includes a buffet dinner and drinks (details to come). 
 
-Please fill in as many details as possible in the form below. If you have an
-unforeseen event or a change of program, [please let us know]({{< ref
-"apropos" >}} "About Us") as soon as possible ! Thank you in advance!
 
-{{< iframe url="https://framaforms.org/inscription-aux-journees-de-recherche-et-de-rencontres-sur-tolkien-6-7-octobre-2023-1683994857" width="100%" height="900px" border="none" >}}
+## Registration starts mid-July !
