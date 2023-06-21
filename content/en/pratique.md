@@ -1,6 +1,7 @@
 ---
 title: "Pratical Info"
 date: 2023-06-21T08:07:43+02:00
+omit_header_text: true
 ---
 The JRRT will take place in **Paris and Créteil** from **6th to 8th October 2023**. Find all the details on each day's activities on this page: [Programme](/en/programme).
 
