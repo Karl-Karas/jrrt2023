@@ -1,6 +1,7 @@
 ---
 title: "Programme"
 date: 2023-06-21T08:27:43+02:00
+omit_header_text: true
 ---
 
 # Friday, October 6th
