@@ -9,7 +9,7 @@ La première phase de préparation de l'événement étant terminée, nous somme
 
 N'hésitez pas à la partager sur vos réseaux sociaux, à l'afficher dans votre vitrine, etc.
 
-<p align="center"> 
+<div style="text-align: center;">
   ![L'affiche de l'événement !](/images/Affiche.jpg) 
-</p>
+</div>
 
