@@ -1,6 +1,7 @@
 ---
 title: "Programme"
 date: 2023-05-12T18:17:43+02:00
+omit_header_text: true
 ---
 
 # Vendredi 6 octobre
