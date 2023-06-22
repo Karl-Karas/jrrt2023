@@ -2,7 +2,6 @@
 title: "Inscription"
 date: 2023-05-12T18:17:43+02:00
 omit_header_text: true
-featured_image: ''
 ---
 ### Pourquoi s'inscrire ? 
 En raison d'un nombre limité de places, et pour nous faciliter l'organisation de l'événement, l'inscription est **obligatoire** pour :
