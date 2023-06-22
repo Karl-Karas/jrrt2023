@@ -28,6 +28,6 @@ Starts at 7pm. Entrance fee.
 
 *Detailed programme to be announced soon*
 
-## Elish calligraphy workshop
+## Elvish calligraphy workshop
 ## Board games
 ## Stand of Tolkiendil association
