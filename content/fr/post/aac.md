@@ -1,6 +1,6 @@
 ---
 title: "Appel à Communications"
-description: "Appel à communications pour le colloque, deadline le 31 mai."
+description: "Appel à communications pour le colloque, deadline repoussée au 30 juin."
 featured_image: "/images/hobbitholezoom2.png"
 date: 2023-05-12T16:31:07+02:00
 ---
@@ -25,6 +25,6 @@ Enfin, les questions de réception de l’œuvre, en France ou ailleurs, permett
 
 Ce colloque a lieu en région parisienne les 6-7 octobre 2023, il est ouvert à tous et toutes. Une attention particulière sera portée aux propositions de jeunes chercheurs. Les communications pourront être en français ou en anglais.
 
-Les propositions sont à envoyer à l’adresse colloque2023@tolkiendil.com avant le 31 mai 2023.
+Les propositions sont à envoyer à l’adresse colloque2023@tolkiendil.com ~~avant le 31 mai 2023~~ avant le 30 juin.
 
 
