@@ -2,7 +2,6 @@
 title: "Register"
 date: 2023-06-21T10:15:43+02:00
 omit_header_text: true
-featured_image: ''
 ---
 ### Why register ? 
 Because places are limited, and to help us organize the event, registering is **compulsory** for: 
