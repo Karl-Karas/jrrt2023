@@ -1,4 +1,4 @@
 @import url('https://fonts.cdnfonts.com/css/butler?styles=20995');
-.lh-title, .lh-copy, .athelas {
+header.lh-title, header.lh-copy, .athelas {
     font-family: 'Butler', sans-serif;
 }
