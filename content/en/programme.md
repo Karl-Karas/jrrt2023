@@ -6,9 +6,15 @@ omit_header_text: true
 
 # Friday, October 6th
 ## First day of the "JRRT" Symposium at Université Paris-Créteil
-**At the amphitheatre of Maison de l'Innovation et de l'Entrepreneuriat Etudiant, Rue Poète et Sellier, 94000 Créteil**
 
-*Programme to be revealed by mid-July*
+![Friday Programme](/images/programme_vendredi.jpg)
+
+
+# Samedi 7 octobre
+## Deuxième journée du colloque "JRRT" à la Bibliothèque Buffon
+
+![Saturday Programme](/images/programme_samedi.jpg)
+
 
 # Saturday, October 7th 
 ## Second day of the "JRRT" Symposium at Bibliothèque Buffon
