@@ -7,13 +7,13 @@ omit_header_text: true
 # Vendredi 6 octobre
 ## Première journée du colloque "JRRT" à l'Université Paris-Créteil
 
-![/static/images/programme_vendredi.jpg]
+![Programme du vendredi](/images/programme_vendredi.jpg)
 
 
 # Samedi 7 octobre
 ## Deuxième journée du colloque "JRRT" à la Bibliothèque Buffon
 
-![/static/images/programme_samedi.jpg]
+![Programme du samedi](/images/programme_samedi.jpg)
 
 
 
