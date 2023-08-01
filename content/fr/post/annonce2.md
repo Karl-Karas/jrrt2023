@@ -9,4 +9,4 @@ Les inscriptions sont désormais ouvertes pour le colloque (journées gratuites 
 
 Il faut encore être un peu patients pour les animations du dimanche, le temps que l'on soit bien certains du nombre de places que nous pouvons proposer. 
 
-Pour réserver, [c'est par ici](/fr/inscription.md) !
+Pour réserver, [c'est par ici](/fr/inscription) !
