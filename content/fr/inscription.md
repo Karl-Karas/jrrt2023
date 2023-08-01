@@ -17,6 +17,6 @@ L'inscription au colloque et aux activités est **gratuite**.
 La **soirée à thème du samedi soir est payante** : le tarif consiste en un forfait qui couvrira le diner sous forme de buffet et des boissons (détails à venir). 
 
 
-## Les inscriptions ouvriront avant mi-juillet !
+
 
 
