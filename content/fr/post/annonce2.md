@@ -1,4 +1,9 @@
-# Les inscriptions sont ouvertes !
+---
+title: "Les inscriptions sont ouvertes !"
+description: "Inscription au colloque et soirée"
+featured_image: "/images/hobbitholezoom2.png"
+date: 2023-08-01T17:00:07+02:00
+---
 
 Les inscriptions sont désormais ouvertes pour le colloque (journées gratuites du vendredi et du samedi), ainsi que pour la soirée du samedi soir ! 
 
