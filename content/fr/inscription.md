@@ -17,6 +17,6 @@ L'inscription au colloque et aux activités est **gratuite**.
 La **soirée à thème du samedi soir est payante** : le tarif consiste en un forfait qui couvrira le diner sous forme de buffet et des boissons (détails à venir). 
 
 
-<iframe src="https://www.helloasso.com/associations/association-tolkiendil/evenements/journees-de-recherche-et-de-rencontre-sur-tolkien/widget" style="width: 100%; height: 750px; border: none;"></iframe>
+<iframe src="https://www.helloasso.com/associations/association-tolkiendil/evenements/journees-de-recherche-et-de-rencontre-sur-tolkien/widget"></iframe>
 
-
+{{< iframe https://www.helloasso.com/associations/association-tolkiendil/evenements/journees-de-recherche-et-de-rencontre-sur-tolkien/widget >}}
