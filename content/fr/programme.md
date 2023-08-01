@@ -25,7 +25,7 @@ A partir de 19h. Entrée payante.
 *Programme détaillé à venir*
 
 # Dimanche 8 octobre
-**Au Labo de l'Edition, 2 Rue Saint-Médard, 75005 Paris**
+**A La Mouette Rieuse, 17b Rue Pavée, 75004 Paris**
 
 *Programme détaillé à venir*
 
