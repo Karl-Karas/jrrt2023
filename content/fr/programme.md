@@ -34,7 +34,7 @@ A partir de 19h. Entrée payante.
 **14h-18h30/19h**: 
 * La Guerre de L'Anneau - le Jeu de Cartes
 * La Quête des Terres du Milieu (jeu de plateau)
-* Jeu de Rôle au Premier Âge (scénario d'Irwin Piot)
+* Jeu de Rôle (scénario se déroulant au Premier Âge)
 
 ## En continu: stand de l'association Tolkiendil, "petits" jeux de société...
 
