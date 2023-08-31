@@ -27,9 +27,14 @@ A partir de 19h. Entrée payante.
 # Dimanche 8 octobre
 **A La Mouette Rieuse, 17b Rue Pavée, 75004 Paris**
 
-*Programme détaillé à venir*
+## 11h-13h: Atelier de calligraphie elfique
 
-## Atelier de calligraphie elfique
 ## Jeux de société
-## Stand de l'association Tolkiendil
+**11h-13h**: Action Quizz *Seigneur des Anneaux*
+**14h-18h30/19h**: 
+* La Guerre de L'Anneau - le Jeu de Cartes
+* La Quête des Terres du Milieu (jeu de plateau)
+* Jeu de Rôle au Premier Âge (scénario d'Irwin Piot)
+
+## En continu: stand de l'association Tolkiendil, "petits" jeux de société...
 
