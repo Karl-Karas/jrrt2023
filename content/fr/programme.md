@@ -38,5 +38,5 @@ De **11h à 13h**. A partir de 12 ans. Matériel fourni.
 * La Quête des Terres du Milieu (jeu de plateau) (3 places)
 * Jeu de Rôle (scénario original "Les Ombres de Nan Elmoth" se déroulant au Premier Âge) (4 places)
 
-## En continu et accès libre : stand de l'association Tolkiendil, "petits" jeux de société...
+## En continu et accès libre : stand de l'association Tolkiendil (avec jeu-concours et lots à gagner), "petits" jeux de société...
 
