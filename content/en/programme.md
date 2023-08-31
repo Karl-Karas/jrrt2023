@@ -30,10 +30,18 @@ Starts at 7pm. Entrance fee.
 *Detailed programme to be announced soon*
 
 # Sunday, October 8th
-**At Labo de l'Edition, 2 Rue Saint-Médard, 75005 Paris**
+**At La Mouette Rieuse, 17b rue pavée, 75004 Paris**
 
-*Detailed programme to be announced soon*
+## Elvish calligraphy workshop (booking required)
+De **11h à 13h**. A partir de 12 ans. Matériel fourni.
 
-## Elvish calligraphy workshop
-## Board games
-## Stand of Tolkiendil association
+## Games (booking required)
+**11h-13h** : Action Quizz *Seigneur des Anneaux*
+
+**14h-18h30/19h** : 
+* La Guerre de L'Anneau - le Jeu de Cartes
+* La Quête des Terres du Milieu (jeu de plateau)
+* Role-Playing Game (original scenario "Les Ombres de Nan Elmoth" set in the First Age)
+
+## All day round and open to all : stand of Tolkiendil association, "quick" games...
+
