@@ -43,5 +43,5 @@ De **11h à 13h**. A partir de 12 ans. Matériel fourni.
 * La Quête des Terres du Milieu (jeu de plateau) (3 slots)
 * Role-Playing Game (original scenario "Les Ombres de Nan Elmoth" set in the First Age) (4 slots)
 
-## All day round and open to all : stand of Tolkiendil association, "quick" games...
+## All day round and open to all : stand of Tolkiendil association (with games and prizes to win !), "quick" games...
 
