@@ -7,7 +7,7 @@ omit_header_text: true
 Because places are limited, and to help us organize the event, registering is **compulsory** for: 
 - The symposium (between 85 and 100 places)
 - The theme evening (around 75 places)
-- The workshop and / or games (between 4 and 10 places depending)
+- The workshop and / or games (between 4 and 10 places depending): **to register send an email to colloque2023@tolkiendil, first arrived, first served!**
    
 **Access to the event on Sunday, October 8th** (stand and other animations, details to come) **is free**.
 
