@@ -27,16 +27,16 @@ A partir de 19h. Entrée payante.
 # Dimanche 8 octobre
 **A La Mouette Rieuse, 17b Rue Pavée, 75004 Paris**
 
-## Atelier de calligraphie elfique
-De 11h à 13h. A partir de 12 ans. Matériel fourni.
+## Atelier de calligraphie elfique (sur inscription)
+De **11h à 13h**. A partir de 12 ans. Matériel fourni.
 
-## Jeux de société
-**11h-13h**: Action Quizz *Seigneur des Anneaux*
+## Jeux (sur inscription)
+**11h-13h** : Action Quizz *Seigneur des Anneaux*
 
-**14h-18h30/19h**: 
+**14h-18h30/19h** : 
 * La Guerre de L'Anneau - le Jeu de Cartes
 * La Quête des Terres du Milieu (jeu de plateau)
 * Jeu de Rôle (scénario original "Les Ombres de Nan Elmoth" se déroulant au Premier Âge)
 
-## En continu: stand de l'association Tolkiendil, "petits" jeux de société...
+## En continu et accès libre : stand de l'association Tolkiendil, "petits" jeux de société...
 
