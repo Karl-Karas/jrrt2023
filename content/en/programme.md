@@ -32,16 +32,16 @@ Starts at 7pm. Entrance fee.
 # Sunday, October 8th
 **At La Mouette Rieuse, 17b rue pavée, 75004 Paris**
 
-## Elvish calligraphy workshop (booking required)
+## Elvish calligraphy workshop (12 slots, booking required)
 De **11h à 13h**. A partir de 12 ans. Matériel fourni.
 
 ## Games (booking required)
-**11h-13h** : Action Quizz *Seigneur des Anneaux*
+**11h-13h** : Action Quizz *Seigneur des Anneaux* (4 slots)
 
 **14h-18h30/19h** : 
-* La Guerre de L'Anneau - le Jeu de Cartes
-* La Quête des Terres du Milieu (jeu de plateau)
-* Role-Playing Game (original scenario "Les Ombres de Nan Elmoth" set in the First Age)
+* La Guerre de L'Anneau - le Jeu de Cartes (3 slots)
+* La Quête des Terres du Milieu (jeu de plateau) (3 slots)
+* Role-Playing Game (original scenario "Les Ombres de Nan Elmoth" set in the First Age) (4 slots)
 
 ## All day round and open to all : stand of Tolkiendil association, "quick" games...
 
