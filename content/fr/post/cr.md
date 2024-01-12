@@ -21,6 +21,8 @@ l’association à partir de 8h30.
 Peu après 9h, Laura Martin-Gomez, présidente de Tolkiendil, ouvre cette
 journée par un discours préliminaire.
 
+![Laura Martin-Gomez](/images/photo1.jpg)
+
 ## Guillaume Coissard : Une ontologie des choses imaginaires à partir de Tolkien
 
 Lien Vidéo[<u>\[JRRT\] Une ontologie des choses imaginaires à partir de
@@ -29,7 +31,7 @@ Tolkien</u>](https://www.youtube.com/watch?v=mwypLtKaGVk&list=PLu2FxfB0SdYoIBv1q
 Selon Tolkien, le monde secondaire devrait apparaître comme un monde
 primaire, une alter-réalité, un art elfique.
 
-![Guillaume Coissard](/images/photo1.jpg)
+
 
 ## Maxime Brémond, sur « *The New Shadow* de J.R.R. Tolkien : suite avortée du *Seigneur des Anneaux* ou dialogue théologique ? »
 
