@@ -25,7 +25,7 @@ journée par un discours préliminaire.
 
 ## Guillaume Coissard : Une ontologie des choses imaginaires à partir de Tolkien
 
-Lien Vidéo[<u>\[JRRT\] Une ontologie des choses imaginaires à partir de
+Lien Vidéo : [<u>\[JRRT\] Une ontologie des choses imaginaires à partir de
 Tolkien</u>](https://www.youtube.com/watch?v=mwypLtKaGVk&list=PLu2FxfB0SdYoIBv1qMBIi1-ictocMYVSU&index=1)
 
 ![Guillaume Coissard](/images/photo2.jpg)
