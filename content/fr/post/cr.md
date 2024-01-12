@@ -39,7 +39,7 @@ primaire, une alter-réalité, un art elfique.
 
 ## Maxime Brémond, sur « *The New Shadow* de J.R.R. Tolkien : suite avortée du *Seigneur des Anneaux* ou dialogue théologique ? »
 
-Lien vidéo : [<u>[JRRT\] "The New Shadow" de Tolkien : suite avortée du
+Lien vidéo : [<u>\[JRRT\] "The New Shadow" de Tolkien : suite avortée du
 Seigneur des Anneaux ou dialogue théologique
 ?</u>](https://www.youtube.com/watch?v=R1fPcZffoU0&list=PLu2FxfB0SdYoIBv1qMBIi1-ictocMYVSU&index=2)
 
@@ -78,7 +78,7 @@ abandonner le texte.
 
 ## Adrien Bigué et Emma Serb : « La cape et la bannière - Ouvrages tissés et fils narratifs dans *Le Seigneur des Anneaux* ».
 
-Lien Vidéo : [<u>[JRRT\] La cape et la bannière - Ouvrages tissés et
+Lien Vidéo : [<u>\[JRRT\] La cape et la bannière - Ouvrages tissés et
 fils narratifs dans le Seigneur des
 Anneaux</u>](https://www.youtube.com/watch?v=ihkVCzeQuJY&list=PLu2FxfB0SdYoIBv1qMBIi1-ictocMYVSU&index=3)
 
@@ -189,7 +189,7 @@ père.
 
 ## Marie Bretagnolle,« Rendre visible l’invisible : présences du mal et personnages en voie de disparition dans les illustrations pour J. R. R. Tolkien ». 
 
-Lien vidéo :[<u>\[JRRT\] Présences du mal et personnages en voie de
+Lien vidéo : [<u>\[JRRT\] Présences du mal et personnages en voie de
 disparition dans les illustrations pour
 Tolkien</u>](https://www.youtube.com/watch?v=Qagvkmv-sUM&list=PLu2FxfB0SdYoIBv1qMBIi1-ictocMYVSU&index=6)
 
@@ -225,7 +225,7 @@ quand les créatures invisibles par nature sont plutôt mises hors champ.
 
 ## Alberto Fleitas, « Échos du sublime dans l’adaptation cinématographique de la Bataille des Champs du Pelennor ». 
 
-Lien vidéo :[<u>\[JRRT\] Échos du sublime dans l'adaptation
+Lien vidéo : [<u>\[JRRT\] Échos du sublime dans l'adaptation
 cinématographique de la Bataille des Champs du
 Pelennor</u>](https://www.youtube.com/watch?v=dW3FjcShS5A&list=PLu2FxfB0SdYoIBv1qMBIi1-ictocMYVSU&index=7)
 
@@ -246,7 +246,7 @@ Buffon (Paris 5ème), et démarre un peu avant 10h.**
 
 ## Denis Bridoux,« L’Hymne à Elbereth et le Namarië »
 
-Lien vidéo : [<u>\[JRRT\] L'Hymne à Elbereth et le Namarië</u>](https://www.youtube.com/watch?v=Qxkl2_yJrNQ&list=PLu2FxfB0SdYoIBv1qMBIi1-ictocMYVSU&index=8)
+Lien vidéo : [<u>\[JRRT\] L'Hymne à Elbereth et le Namarië</u>](https://www.youtube.com/watch?v=vMHFnF8YmMc&list=PLu2FxfB0SdYoIBv1qMBIi1-ictocMYVSU&index=8))
 
 ![Denis Bridoux](/images/photo11.jpg)
 
@@ -268,7 +268,7 @@ donc un chant de fleurs et de lumière, qu'on retrouve aussi dans le cri
 de Frodo lorsqu'il brandit la Fiole de Galadriel.
 
 ## Damien Bador, « Les révisions du *Seigneur des Anneaux* au travers du poème Namarië »
-Lien vidéo : [<u>\[JRRT\] Les révisions du Seigneur des Anneaux au travers du poème Namarië</u>](https://www.youtube.com/watch?v=Qxkl2_yJrNQ&list=PLu2FxfB0SdYoIBv1qMBIi1-ictocMYVSU&index=9)
+Lien vidéo : [<u>\[JRRT\] Les révisions du Seigneur des Anneaux au travers du poème Namarië</u>](https://www.youtube.com/watch?v=F8rLrpwppPs&list=PLu2FxfB0SdYoIBv1qMBIi1-ictocMYVSU&index=9)
 
 ![Damien Bador](/images/photo12.jpg)
 
@@ -293,7 +293,7 @@ etc.
 
 ## Raphaël Vaubourdolle, « L’héraldique chez Tolkien : catalogue et usages des armoiries en Arda, de l’Ainulindalë à l’aube du Quatrième Âge ».
 
-Lien vidéo : [<u>\[JRRT\] L'héraldique chez Tolkien</u>](https://www.youtube.com/watch?v=Qxkl2_yJrNQ&list=PLu2FxfB0SdYoIBv1qMBIi1-ictocMYVSU&index=10)
+Lien vidéo : [<u>\[JRRT\] L'héraldique chez Tolkien</u>](https://www.youtube.com/watch?v=-1mEEWdf9Hk&list=PLu2FxfB0SdYoIBv1qMBIi1-ictocMYVSU&index=10)
 
 ![Raphaël Vaubourdolle](/images/photo13.jpg)
 
@@ -328,7 +328,7 @@ remisés dans les musées ?
 
 ## Paolo Pizzimento, « Rings of Smoke: Pipe-weed, Pipes, and Smoking Imaginary in J.R.R. Tolkiens’s Narrative ». 
 
-Lien vidéo : [<u>\[JRRT\] Rings of Smoke: Piwe-weed, Pipes, and Smonking Imaginary in J.R.R. Tolkien's Narrative</u>](https://www.youtube.com/watch?v=Qxkl2_yJrNQ&list=PLu2FxfB0SdYoIBv1qMBIi1-ictocMYVSU&index=11)
+Lien vidéo : [<u>\[JRRT\] Rings of Smoke: Piwe-weed, Pipes, and Smonking Imaginary in J.R.R. Tolkien's Narrative</u>](https://www.youtube.com/watch?v=9G124_vDunc&list=PLu2FxfB0SdYoIBv1qMBIi1-ictocMYVSU&index=11)
 
 ![Paolo Pizzimento](/images/photo14.jpg)
 
@@ -387,7 +387,7 @@ genre, au Japon.
 ## Antonin Segault, « Le fandom de Tolkien dans les encyclopédies en ligne francophones ». 
 
 Lien vidéo : [<u>\[JRRT\] Le fandom de Tolkien dans les encyclopédies en ligne francophones
-</u>](https://www.youtube.com/watch?v=Qxkl2_yJrNQ&list=PLu2FxfB0SdYoIBv1qMBIi1-ictocMYVSU&index=12)
+</u>](https://www.youtube.com/watch?v=T05Xu7YutzY&list=PLu2FxfB0SdYoIBv1qMBIi1-ictocMYVSU&index=12)
 
 ![Antonin Segault](/images/photo16.jpg)
 
@@ -416,7 +416,7 @@ brouiller les interprétations individuelles et créer une fusion.
 
 ## Vivien Feasson, « La retraduction du Silmarillion ». 
 
-Lien vidéo : [<u>\[JRRT\] La retraduction du Silmarillion</u>](https://www.youtube.com/watch?v=Qxkl2_yJrNQ&list=PLu2FxfB0SdYoIBv1qMBIi1-ictocMYVSU&index=13)
+Lien vidéo : [<u>\[JRRT\] La retraduction du Silmarillion</u>](https://www.youtube.com/watch?v=4vMi5SAxXeM&list=PLu2FxfB0SdYoIBv1qMBIi1-ictocMYVSU&index=13)
 
 ![Vivien Feasson](/images/photo17.jpg)
 
