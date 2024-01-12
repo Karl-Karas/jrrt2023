@@ -39,7 +39,7 @@ primaire, une alter-réalité, un art elfique.
 
 ## Maxime Brémond, sur « *The New Shadow* de J.R.R. Tolkien : suite avortée du *Seigneur des Anneaux* ou dialogue théologique ? »
 
-Lien vidéo : [<u>\[JRRT\] "The New Shadow" de Tolkien : suite avortée du
+Lien vidéo : [<u>[JRRT\] "The New Shadow" de Tolkien : suite avortée du
 Seigneur des Anneaux ou dialogue théologique
 ?</u>](https://www.youtube.com/watch?v=R1fPcZffoU0&list=PLu2FxfB0SdYoIBv1qMBIi1-ictocMYVSU&index=2)
 
@@ -78,7 +78,7 @@ abandonner le texte.
 
 ## Adrien Bigué et Emma Serb : « La cape et la bannière - Ouvrages tissés et fils narratifs dans *Le Seigneur des Anneaux* ».
 
-Lien Vidéo : [<u>\[JRRT\] La cape et la bannière - Ouvrages tissés et
+Lien Vidéo : [<u>[JRRT\] La cape et la bannière - Ouvrages tissés et
 fils narratifs dans le Seigneur des
 Anneaux</u>](https://www.youtube.com/watch?v=ihkVCzeQuJY&list=PLu2FxfB0SdYoIBv1qMBIi1-ictocMYVSU&index=3)
 
@@ -246,10 +246,10 @@ Buffon (Paris 5ème), et démarre un peu avant 10h.**
 
 ## Denis Bridoux,« L’Hymne à Elbereth et le Namarië »
 
-Photo :
-[<u>https://pbs.twimg.com/media/F70sTzcWsAAyEO4?format=jpg&name=large</u>](https://pbs.twimg.com/media/F70sTzcWsAAyEO4?format=jpg&name=large)
+Lien vidéo : [<u>\[JRRT\] L'Hymne à Elbereth et le Namarië</u>](https://www.youtube.com/watch?v=Qxkl2_yJrNQ&list=PLu2FxfB0SdYoIBv1qMBIi1-ictocMYVSU&index=8)
 
 ![Denis Bridoux](/images/photo11.jpg)
+
 
 Dans *Le Seigneur des Anneaux*, il existe une série de poèmes dont le
 Namarië fait partie, qui montre une tradition religieuse chez les elfes,
@@ -268,6 +268,7 @@ donc un chant de fleurs et de lumière, qu'on retrouve aussi dans le cri
 de Frodo lorsqu'il brandit la Fiole de Galadriel.
 
 ## Damien Bador, « Les révisions du *Seigneur des Anneaux* au travers du poème Namarië »
+Lien vidéo : [<u>\[JRRT\] Les révisions du Seigneur des Anneaux au travers du poème Namarië</u>](https://www.youtube.com/watch?v=Qxkl2_yJrNQ&list=PLu2FxfB0SdYoIBv1qMBIi1-ictocMYVSU&index=9)
 
 ![Damien Bador](/images/photo12.jpg)
 
@@ -289,10 +290,10 @@ plusieurs types de révisions au long de ces versions : allongements
 vocaliques, longueur des voyelles, désinences, évolution du vocabulaire,
 etc.
 
-Photo :
-[<u>https://pbs.twimg.com/media/F70xWGtXoAAcqkp?format=jpg&name=large</u>](https://pbs.twimg.com/media/F70xWGtXoAAcqkp?format=jpg&name=large)
 
 ## Raphaël Vaubourdolle, « L’héraldique chez Tolkien : catalogue et usages des armoiries en Arda, de l’Ainulindalë à l’aube du Quatrième Âge ».
+
+Lien vidéo : [<u>\[JRRT\] L'héraldique chez Tolkien</u>](https://www.youtube.com/watch?v=Qxkl2_yJrNQ&list=PLu2FxfB0SdYoIBv1qMBIi1-ictocMYVSU&index=10)
 
 ![Raphaël Vaubourdolle](/images/photo13.jpg)
 
@@ -323,12 +324,11 @@ de Felagund possède son blason, et c'est l'objet qui sera transmis.
 Raphaël Vaubourdolle conclut avec un petit appendice sur l'héraldique
 hobbite : pas de bannières mentionnées pour le Comté lors des quelques
 batailles hobbites, peut-être sont-elles considérées comme des mathoms
-remisés dans les musées ?
-
-Photo :
-[<u>https://pbs.twimg.com/media/F71ArJUXMAAyqy\_?format=jpg&name=large</u>](https://pbs.twimg.com/media/F71ArJUXMAAyqy_?format=jpg&name=large)
+remisés dans les musées ?                                         
 
 ## Paolo Pizzimento, « Rings of Smoke: Pipe-weed, Pipes, and Smoking Imaginary in J.R.R. Tolkiens’s Narrative ». 
+
+Lien vidéo : [<u>\[JRRT\] Rings of Smoke: Piwe-weed, Pipes, and Smonking Imaginary in J.R.R. Tolkien's Narrative</u>](https://www.youtube.com/watch?v=Qxkl2_yJrNQ&list=PLu2FxfB0SdYoIBv1qMBIi1-ictocMYVSU&index=11)
 
 ![Paolo Pizzimento](/images/photo14.jpg)
 
@@ -353,8 +353,6 @@ dire quel type de tabac est utilisé par les hobbits. Tolkien n'utilise
 pas le terme “tobacco” mais “pipe weed”. Et évidemment, il ne fait
 aucune référence aux drogues, à la différence des films (Radagast).
 
-Photo :
-[<u>https://pbs.twimg.com/media/F71IusUWYAAqbU5?format=jpg&name=large</u>](https://pbs.twimg.com/media/F71IusUWYAAqbU5?format=jpg&name=large)
 
 ## Enzo Le Guiriec, « L’état des lieux de la recherche japonaise autour de Tolkien depuis l’après-guerre ». 
 
@@ -385,10 +383,11 @@ l'exotisme de Tolkien au Japon. Cette première traduction est le reflet d'une �
 qui a influencé la culture littéraire et filmique fantasy en tant que
 genre, au Japon.
 
-Photo :
-[<u>https://pbs.twimg.com/media/F71f89rXkAIQK6-?format=jpg&name=large</u>](https://pbs.twimg.com/media/F71f89rXkAIQK6-?format=jpg&name=large)
 
 ## Antonin Segault, « Le fandom de Tolkien dans les encyclopédies en ligne francophones ». 
+
+Lien vidéo : [<u>\[JRRT\] Le fandom de Tolkien dans les encyclopédies en ligne francophones
+</u>](https://www.youtube.com/watch?v=Qxkl2_yJrNQ&list=PLu2FxfB0SdYoIBv1qMBIi1-ictocMYVSU&index=12)
 
 ![Antonin Segault](/images/photo16.jpg)
 
@@ -414,12 +413,10 @@ encyclopédie résulte d'une combinaison de critères d'inclusion
 acceptables par les auteurs de celle-ci. Le projet collaboratif va alors
 brouiller les interprétations individuelles et créer une fusion.
 
-Photo :
-[<u>https://pbs.twimg.com/media/F71sN6DXQAALUuG?format=jpg&name=large</u>](https://pbs.twimg.com/media/F71sN6DXQAALUuG?format=jpg&name=large)
-
-\[si qqn en a une mieux…\]
 
 ## Vivien Feasson, « La retraduction du Silmarillion ». 
+
+Lien vidéo : [<u>\[JRRT\] La retraduction du Silmarillion</u>](https://www.youtube.com/watch?v=Qxkl2_yJrNQ&list=PLu2FxfB0SdYoIBv1qMBIi1-ictocMYVSU&index=13)
 
 ![Vivien Feasson](/images/photo17.jpg)
 
@@ -452,6 +449,7 @@ modernisation, mais un moyen d'emmener les lecteurs vers Tolkien et ses
 archaïsmes, malgré les écueils potentiels.
 
 ## Vivien Stocker, Marie Bretagnolle, Pauline Loquin, Laura Martin-Gomez, “L'œuvre de Tolkien en France.”
+
 
 ![Intervenant(e)s de la table ronde](/images/photo18.jpg)
 
@@ -535,8 +533,6 @@ dirigées par Vincent Ferré et Anne Besson, ou d'autres. Joël Meriner est
 aussi mentionné, notamment pour ses travaux. Plusieurs étudiant(e)s ont
 commencé des travaux sur Tolkien.
 
-Photo :
-[<u>https://pbs.twimg.com/media/F72E9OTX0AAK-pi?format=jpg&name=large</u>](https://pbs.twimg.com/media/F72E9OTX0AAK-pi?format=jpg&name=large)
 
 # La soirée
 
