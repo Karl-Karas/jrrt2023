@@ -29,6 +29,8 @@ Tolkien</u>](https://www.youtube.com/watch?v=mwypLtKaGVk&list=PLu2FxfB0SdYoIBv1q
 Selon Tolkien, le monde secondaire devrait apparaître comme un monde
 primaire, une alter-réalité, un art elfique.
 
+![Guillaume Coissard](photo1.jpg)
+
 ## Maxime Brémond, sur « *The New Shadow* de J.R.R. Tolkien : suite avortée du *Seigneur des Anneaux* ou dialogue théologique ? »
 
 Lien vidéo : [<u>\[JRRT\] "The New Shadow" de Tolkien : suite avortée du
