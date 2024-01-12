@@ -4,13 +4,12 @@ description: "Résumé des conférences, photos et liens vers les vidéos"
 featured_image: "/images/hobbitholezoom2.png"
 date: 2024-01-12T09:00:07+02:00
 ---
-# Les Journées de Recherche et de Rencontres sur Tolkien
 
 |                                                                                                                    |
 |--------------------------------------------------------------------------------------------------------------------|
 | NOTA : Ce compte-rendu est principalement basé sur le fil Twitter / X posté par l’association pendant l’événement. |
 
-## Le colloque
+# Le colloque
 
 La première journée des JRRT a eu lieu à l’amphithéâtre de la Maison de
 l’Innovation et de l’Entreprenariat Étudiant de l’Université de
@@ -22,7 +21,7 @@ l’association à partir de 8h30.
 Peu après 9h, Laura Martin-Gomez, présidente de Tolkiendil, ouvre cette
 journée par un discours préliminaire.
 
-# <u>Guillaume Coissard : Une ontologie des choses imaginaires à partir de Tolkien</u>
+## Guillaume Coissard : Une ontologie des choses imaginaires à partir de Tolkien
 
 Lien Vidéo[<u>\[JRRT\] Une ontologie des choses imaginaires à partir de
 Tolkien</u>](https://www.youtube.com/watch?v=mwypLtKaGVk&list=PLu2FxfB0SdYoIBv1qMBIi1-ictocMYVSU&index=1)
@@ -30,7 +29,7 @@ Tolkien</u>](https://www.youtube.com/watch?v=mwypLtKaGVk&list=PLu2FxfB0SdYoIBv1q
 Selon Tolkien, le monde secondaire devrait apparaître comme un monde
 primaire, une alter-réalité, un art elfique.
 
-# <u>Maxime Brémond, sur « *The New Shadow* de J.R.R. Tolkien : suite avortée du *Seigneur des Anneaux* ou dialogue théologique ? »</u>
+## Maxime Brémond, sur « *The New Shadow* de J.R.R. Tolkien : suite avortée du *Seigneur des Anneaux* ou dialogue théologique ? »
 
 Lien vidéo : [<u>\[JRRT\] "The New Shadow" de Tolkien : suite avortée du
 Seigneur des Anneaux ou dialogue théologique
@@ -63,7 +62,7 @@ l'idée d'explorer la nature du mal provoqué par les hommes et non plus
 par un Sauron, et c’est aussi ce qui a pu le déprimer et lui faire
 abandonner le texte.
 
-# <u>Adrien Bigué et Emma Serb : « La cape et la bannière - Ouvrages tissés et fils narratifs dans *Le Seigneur des Anneaux* ».</u> 
+## Adrien Bigué et Emma Serb : « La cape et la bannière - Ouvrages tissés et fils narratifs dans *Le Seigneur des Anneaux* ».
 
 Lien Vidéo : [<u>\[JRRT\] La cape et la bannière - Ouvrages tissés et
 fils narratifs dans le Seigneur des
@@ -74,7 +73,7 @@ Dans le *Silmarillion*, le tissage représente le destin des personnages,
 du monde. Le tissage est aussi une image de la narration chez Tolkien
 avec des entrecroisements entre fils narratifs et épisodiques.
 
-# Elisa Bes, sur « Le désespoir comme le fardeau de “devoir faire seul(e)” : Éowyn et Túrin ». 
+## Elisa Bes, sur « Le désespoir comme le fardeau de “devoir faire seul(e)” : Éowyn et Túrin ». 
 
 Lien vidéo : [<u>\[JRRT\] Le désespoir comme le fardeau de « devoir
 faire seul(e) » : Eowyn et
@@ -99,7 +98,7 @@ soi-même, pour se voir sans filtre : Éowyn grâce à Faramir, Túrin en
 partie par amour pour Niniel. Mais, pour ce dernier, la malédiction de
 Morgoth l'enferme dans ce désespoir.
 
-# <u>Romain Plichon, « De Minas Tirith à Doullens, Tolkien l’homme des citadelles : pour la patrimonialisation d’un itinéraire militaire ».</u> 
+## Romain Plichon, « De Minas Tirith à Doullens, Tolkien l’homme des citadelles : pour la patrimonialisation d’un itinéraire militaire ».
 
 Lien vidéo : [<u>\[JRRT\] Tolkien l'homme des citadelles : pour la
 patrimonialisation d'un itinéraire
@@ -130,7 +129,7 @@ culturelle là où il a passé un très long moment lors de son passage en
 France. En bref, le projet est de rendre hommage à l'homme pour rendre
 hommage aux hommes.
 
-# <u>Simon Ayrinhac,« Cartes de la Terre du Milieu : qui en est le véritable auteur ? ».</u> 
+## Simon Ayrinhac,« Cartes de la Terre du Milieu : qui en est le véritable auteur ? ».
 
 Quelle est la canonicité des 3 cartes présentes dans le *Seigneur des
 Anneaux* ?
@@ -159,7 +158,7 @@ fantasy connues des Tolkien avec des codes sur lesquels Christopher
 Tolkien s'est basé. C'est donc bien lui l'auteur des cartes, et non son
 père.
 
-# Marie Bretagnolle,« Rendre visible l’invisible : présences du mal et personnages en voie de disparition dans les illustrations pour J. R. R. Tolkien ». 
+## Marie Bretagnolle,« Rendre visible l’invisible : présences du mal et personnages en voie de disparition dans les illustrations pour J. R. R. Tolkien ». 
 
 Lien vidéo :[<u>\[JRRT\] Présences du mal et personnages en voie de
 disparition dans les illustrations pour
@@ -193,7 +192,7 @@ illustrateur choisit : montrer ou ne pas montrer l'invisibilité. Le
 porteur de l'anneau tend à être visible même lorsqu'il est invisible,
 quand les créatures invisibles par nature sont plutôt mises hors champ.
 
-# Alberto Fleitas, « Échos du sublime dans l’adaptation cinématographique de la Bataille des Champs du Pelennor ». 
+## Alberto Fleitas, « Échos du sublime dans l’adaptation cinématographique de la Bataille des Champs du Pelennor ». 
 
 Lien vidéo :[<u>\[JRRT\] Échos du sublime dans l'adaptation
 cinématographique de la Bataille des Champs du
@@ -212,7 +211,7 @@ Cette dernière conférence clôture la première journée des JRRT vers
 **La deuxième journée se tient à l’amphithéâtre de la Bibliothèque
 Buffon (Paris 5ème), et démarre un peu avant 10h.**
 
-# <u>Denis Bridoux,« L’Hymne à Elbereth et le Namarië »</u>
+## Denis Bridoux,« L’Hymne à Elbereth et le Namarië »
 
 Photo :
 [<u>https://pbs.twimg.com/media/F70sTzcWsAAyEO4?format=jpg&name=large</u>](https://pbs.twimg.com/media/F70sTzcWsAAyEO4?format=jpg&name=large)
@@ -233,7 +232,7 @@ l'Ombre, la peur de la mort : Elenath, l'Ost des étoiles. L'hymne est
 donc un chant de fleurs et de lumière, qu'on retrouve aussi dans le cri
 de Frodo lorsqu'il brandit la Fiole de Galadriel.
 
-# <u>Damien Bador, « Les révisions du *Seigneur des Anneaux* au travers du poème Namarië »</u> 
+## Damien Bador, « Les révisions du *Seigneur des Anneaux* au travers du poème Namarië »
 
 Le Namarië a fait évoluer le quenya et le sindarin pour Tolkien car il
 s'agit du plus long poème en elfique existant. Il existe 7 versions,
@@ -256,7 +255,7 @@ etc.
 Photo :
 [<u>https://pbs.twimg.com/media/F70xWGtXoAAcqkp?format=jpg&name=large</u>](https://pbs.twimg.com/media/F70xWGtXoAAcqkp?format=jpg&name=large)
 
-# <u>Raphaël Vaubourdolle, « L’héraldique chez Tolkien : catalogue et usages des armoiries en Arda, de l’Ainulindalë à l’aube du Quatrième Âge ».</u> 
+## Raphaël Vaubourdolle, « L’héraldique chez Tolkien : catalogue et usages des armoiries en Arda, de l’Ainulindalë à l’aube du Quatrième Âge ».
 
 Généralement on connaît bien l'héraldique humaine et elfique, au 3ème
 Âge. Moins pour les orques ou les nains, voire quasiment rien pour les
@@ -290,7 +289,7 @@ remisés dans les musées ?
 Photo :
 [<u>https://pbs.twimg.com/media/F71ArJUXMAAyqy\_?format=jpg&name=large</u>](https://pbs.twimg.com/media/F71ArJUXMAAyqy_?format=jpg&name=large)
 
-# Paolo Pizzimento, « Rings of Smoke: Pipe-weed, Pipes, and Smoking Imaginary in J.R.R. Tolkiens’s Narrative ». 
+## Paolo Pizzimento, « Rings of Smoke: Pipe-weed, Pipes, and Smoking Imaginary in J.R.R. Tolkiens’s Narrative ». 
 
 Tolkien lui-même était très amateur de pipe et il a intégré cela dans
 son œuvre. D'abord il faut savoir qu'il n'avait pas qu'une seule pipe ni
@@ -316,7 +315,7 @@ aucune référence aux drogues, à la différence des films (Radagast).
 Photo :
 [<u>https://pbs.twimg.com/media/F71IusUWYAAqbU5?format=jpg&name=large</u>](https://pbs.twimg.com/media/F71IusUWYAAqbU5?format=jpg&name=large)
 
-# Enzo Le Guiriec, « L’état des lieux de la recherche japonaise autour de Tolkien depuis l’après-guerre ». 
+## Enzo Le Guiriec, « L’état des lieux de la recherche japonaise autour de Tolkien depuis l’après-guerre ». 
 
 En 1965, c’est la première traduction du *Hobbit*, en 1972-1976 la
 première traduction du *Seigneur des Anneaux* en japonais. Au Japon, le
@@ -328,7 +327,7 @@ continuent au début du XXe ce qui va permettre une redéfinition de
 l'identité japonaise. Seta Teiji va s'intéresser, en tant qu'auteur et
 traducteur, à la littérature jeunesse, un genre qui n'était pas défini à
 cette époque. Il traduit Tolkien mais aussi Lewis et a été primé de
-nombreuses fois. [Aujourd'hui encore c'est sa traduction qui est
+nombreuses fois. Aujourd'hui encore c'est sa traduction qui est
 publiée. Mais pour le *Hobbit*, il y a eu deux maisons d'édition qui
 l'ont traduit et publié, toutes deux sur la base de la version anglaise
 de 1951. Les différences sont sur certains termes et les illustrations.
@@ -339,17 +338,14 @@ et la représentation sociale. Il n’y a pas non plus de rimes dans les
 poèmes, et une suppression des verbes au profit des adjectifs. Les
 personnages néfastes vont avoir des attributs et les bons des actions.
 Toutefois,des runes et des tengwar sont conservés, ce qui participe de
-l'exotisme
-de](https://twitter.com/tolkiendilfr/status/1710631705697009862/analytics)
-Tolkien [au Japon. Cette première traduction est le reflet d'une époque
+l'exotisme de Tolkien au Japon. Cette première traduction est le reflet d'une époque
 qui a influencé la culture littéraire et filmique fantasy en tant que
-genre, au
-Japon](https://twitter.com/tolkiendilfr/status/1710631705697009862/analytics).
+genre, au Japon.
 
 Photo :
 [<u>https://pbs.twimg.com/media/F71f89rXkAIQK6-?format=jpg&name=large</u>](https://pbs.twimg.com/media/F71f89rXkAIQK6-?format=jpg&name=large)
 
-# Antonin Segault, « Le fandom de Tolkien dans les encyclopédies en ligne francophones ». 
+## Antonin Segault, « Le fandom de Tolkien dans les encyclopédies en ligne francophones ». 
 
 Les fans reproduisent la manière encyclopédique pour des mondes fictifs.
 Son corpus d’étude est constitué de 6 encyclopédies francophones : les
@@ -378,7 +374,7 @@ Photo :
 
 \[si qqn en a une mieux…\]
 
-# Vivien Feasson, « La retraduction du Silmarillion ». 
+## Vivien Feasson, « La retraduction du Silmarillion ». 
 
 On commence par un rappel des dates de publication des traductions des
 trois œuvres principales de Tolkien en France. Le *Silmarillion* est
@@ -408,7 +404,7 @@ nouvelle traduction de Daniel Lauzon n'est pas forcément une
 modernisation, mais un moyen d'emmener les lecteurs vers Tolkien et ses
 archaïsmes, malgré les écueils potentiels.
 
-# <u>Vivien Stocker, Marie Bretagnolle, Pauline Loquin, Laura Martin-Gomez, “L'œuvre de Tolkien en France.”</u>
+## Vivien Stocker, Marie Bretagnolle, Pauline Loquin, Laura Martin-Gomez, “L'œuvre de Tolkien en France.”
 
 Le but de la discussion est de discuter et d'offrir la parole au public,
 qui est au cœur des JRRT, telles qu'elles ont été conçues.
@@ -493,7 +489,7 @@ commencé des travaux sur Tolkien.
 Photo :
 [<u>https://pbs.twimg.com/media/F72E9OTX0AAK-pi?format=jpg&name=large</u>](https://pbs.twimg.com/media/F72E9OTX0AAK-pi?format=jpg&name=large)
 
-## La soirée
+# La soirée
 
 Après le colloque, l’événement se poursuit par une soirée “anniversaire”
 aux Caves Alliées.
@@ -503,9 +499,9 @@ créer une ambiance sonore féérique, nous proposons quelques jeux et un
 quiz pour agrémenter la soirée.
 
 Nous nous sommes régalés avec les plateaux proposés par le bar et avec
-le gâteau commandé pour l’occasion \[photos\].
+le gâteau commandé pour l’occasion.
 
-## La journée d’animations
+# La journée d’animations
 
 Le dimanche 8 octobre, nous avons proposé des animations au 2ème étage
 de la librairie La Mouette Rieuse de 11h à 18h30. Nous y avons tenu un
@@ -513,4 +509,4 @@ stand avec nos petits jeux habituels, mais il y a aussi eu un atelier de
 calligraphie elfique le matin, ainsi que des sessions de jeux de plateau
 le matin et l’après-midi, et un jeu de rôle l’après-midi.
 
-\[photos\]
+
