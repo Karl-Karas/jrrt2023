@@ -1,3 +1,9 @@
+---
+title: "Compte-rendu de l'événement"
+description: "Résumé des conférences, photos et liens vers les vidéos"
+featured_image: "/images/hobbitholezoom2.png"
+date: 2024-01-12T09:00:07+02:00
+---
 # Les Journées de Recherche et de Rencontres sur Tolkien
 
 |                                                                                                                    |
