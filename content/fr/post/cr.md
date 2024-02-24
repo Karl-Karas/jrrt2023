@@ -521,7 +521,7 @@ l'iconographie, cela va notamment des fanarts aux professionnels,
 souvent inspirés des films avec la “sainte-trinité” (Lee, Howe,
 Nasmith). Pour le calendrier 2022, Harper Collins a fait appel à des
 artistes non-professionnels ou moins connus, notamment Jenny Dolfen. La
-retraduction de Daniel Lauron change-t-elle la manière de se représenter
+retraduction de Daniel Lauzon change-t-elle la manière de se représenter
 les personnages ? Les représentations des personnages sont plus ou moins
 fortes selon la précision de la personnalité des personnages et de
 l'empreinte qu'ils laissent.
@@ -529,7 +529,7 @@ l'empreinte qu'ils laissent.
 Quel futur pour les éditions de Tolkien, deux titres à venir ont été
 mentionnés. Est-ce que cela augure de bonnes choses pour les prochaines
 années ? La recherche universitaire augmente, avec des formations
-dirigées par Vincent Ferré et Anne Besson, ou d'autres. Joël Meriner est
+dirigées par Vincent Ferré et Anne Besson, ou d'autres. Joël Merriner est
 aussi mentionné, notamment pour ses travaux. Plusieurs étudiant(e)s ont
 commencé des travaux sur Tolkien.
 
